@@ -25,7 +25,7 @@ after a merge with master continue on Dev branch, right click on master head and
 
 methoud: after merge with master
 continue work on dev by selecting dev in the top of the page (repo/branch )
-rebase dev to master (right away will be good) 
+rebase dev to master  (right away will be good) to do this while dev is selected at the top right click on master head and select rebase into master. 
 when ready select master at the top of the page then right click on master and select merge dev into master. 
 
 make sure to push changes as both dev and master if youo want both to be on the reop. 
