@@ -33,7 +33,7 @@ make sure to push changes as both dev and master if youo want both to be on the 
 
 merge: (mearge methoud) 
 continue work on dev
-change working branch to master
-right click on master head and select merge dev into master.
+change working branch to master (top of page) 
+right click on dev head and select merge dev into master.
 
 
